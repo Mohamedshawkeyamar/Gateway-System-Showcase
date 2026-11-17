@@ -1,0 +1,4 @@
+Repository name: Gateway-System-Showcase
+Description: Full-stack training management platform | React, Laravel, Redux Toolkit & Material UI | Private source, public UI showcase.
+Suggested topics: react, laravel, training-management, admin-dashboard, redux-toolkit, material-ui, portfolio, case-study, private-source
+Website: leave empty unless you have an authorized public demo URL.
